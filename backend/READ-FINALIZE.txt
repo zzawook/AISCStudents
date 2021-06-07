@@ -1,0 +1,5 @@
+Finalize process
+1. Change server DB connection url: aiscstudents.com-->localhost,
+2. Change CORS setting in React front-end: localhost:3030 --> aiscstudents.com
+3. Run 'Clean up code' in VS2019
+4. Create product ready react file
