@@ -6,3 +6,5 @@ As a developer:
 1. Implemented Post, Comment, Like of the community website using Node and React.
 2. Created Profile, and Login logic using SHA256 implanted in Node.
 3. Designed the entire website design using React.
+
+~ May. 2021.
